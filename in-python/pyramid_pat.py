@@ -7,7 +7,7 @@ for i in range(n):
             print(k,end='')
             k+=1
         else:
-            print('* ',end='')
+            print('*',end='')
     print(end='\n')
 #print pyramid pattern
 
